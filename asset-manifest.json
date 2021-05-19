@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React_First/static/css/main.6dea0f05.chunk.css",
+    "main.css": "/React_First/static/css/main.2ae47eeb.chunk.css",
     "main.js": "/React_First/static/js/main.86fc5c79.chunk.js",
     "main.js.map": "/React_First/static/js/main.86fc5c79.chunk.js.map",
     "runtime-main.js": "/React_First/static/js/runtime-main.b6feaff4.js",
@@ -12,7 +12,7 @@
     "static/js/3.a467f66c.chunk.js.map": "/React_First/static/js/3.a467f66c.chunk.js.map",
     "index.html": "/React_First/index.html",
     "static/css/2.4f60e22f.chunk.css.map": "/React_First/static/css/2.4f60e22f.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/React_First/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/React_First/static/css/main.2ae47eeb.chunk.css.map",
     "static/js/2.1818de99.chunk.js.LICENSE.txt": "/React_First/static/js/2.1818de99.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/React_First/static/media/arrow_right.0897f985.svg",
     "static/media/all.min.css": "/React_First/static/media/fa-solid-900.efbd5d20.eot"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.b6feaff4.js",
     "static/css/2.4f60e22f.chunk.css",
     "static/js/2.1818de99.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
+    "static/css/main.2ae47eeb.chunk.css",
     "static/js/main.86fc5c79.chunk.js"
   ]
 }
