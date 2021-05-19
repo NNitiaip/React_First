@@ -3,9 +3,8 @@ import { MDBContainer, MDBTable, MDBTableBody, MDBTableHead } from 'mdbreact';
 
 const TablePage = (props) => {
   const {data} = props;
-const datax = 
-  data
-;
+  console.log(data)
+
 
 return (
 
@@ -13,7 +12,7 @@ return (
 
   
   <MDBTable  maxHeight="70vh"  responsive striped >
-    <MDBTableHead columns={data.columns} />
+    <MDBTableHead columns={data.column} />
     <MDBTableBody rows={data.rows} />
   </MDBTable>
 
