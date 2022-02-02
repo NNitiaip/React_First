@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/React_First/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/React_First/static/js/main.86fc5c79.chunk.js",
-    "main.js.map": "/React_First/static/js/main.86fc5c79.chunk.js.map",
-    "runtime-main.js": "/React_First/static/js/runtime-main.b6feaff4.js",
-    "runtime-main.js.map": "/React_First/static/js/runtime-main.b6feaff4.js.map",
-    "static/css/2.4f60e22f.chunk.css": "/React_First/static/css/2.4f60e22f.chunk.css",
-    "static/js/2.1818de99.chunk.js": "/React_First/static/js/2.1818de99.chunk.js",
-    "static/js/2.1818de99.chunk.js.map": "/React_First/static/js/2.1818de99.chunk.js.map",
-    "static/js/3.a467f66c.chunk.js": "/React_First/static/js/3.a467f66c.chunk.js",
-    "static/js/3.a467f66c.chunk.js.map": "/React_First/static/js/3.a467f66c.chunk.js.map",
+    "main.js": "/React_First/static/js/main.91da19cd.chunk.js",
+    "main.js.map": "/React_First/static/js/main.91da19cd.chunk.js.map",
+    "runtime-main.js": "/React_First/static/js/runtime-main.adcabd32.js",
+    "runtime-main.js.map": "/React_First/static/js/runtime-main.adcabd32.js.map",
+    "static/css/2.e8a9affb.chunk.css": "/React_First/static/css/2.e8a9affb.chunk.css",
+    "static/js/2.a22355ec.chunk.js": "/React_First/static/js/2.a22355ec.chunk.js",
+    "static/js/2.a22355ec.chunk.js.map": "/React_First/static/js/2.a22355ec.chunk.js.map",
+    "static/js/3.502b4710.chunk.js": "/React_First/static/js/3.502b4710.chunk.js",
+    "static/js/3.502b4710.chunk.js.map": "/React_First/static/js/3.502b4710.chunk.js.map",
     "index.html": "/React_First/index.html",
-    "static/css/2.4f60e22f.chunk.css.map": "/React_First/static/css/2.4f60e22f.chunk.css.map",
+    "static/css/2.e8a9affb.chunk.css.map": "/React_First/static/css/2.e8a9affb.chunk.css.map",
     "static/css/main.2ae47eeb.chunk.css.map": "/React_First/static/css/main.2ae47eeb.chunk.css.map",
-    "static/js/2.1818de99.chunk.js.LICENSE.txt": "/React_First/static/js/2.1818de99.chunk.js.LICENSE.txt",
+    "static/js/2.a22355ec.chunk.js.LICENSE.txt": "/React_First/static/js/2.a22355ec.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/React_First/static/media/arrow_right.0897f985.svg",
     "static/media/all.min.css": "/React_First/static/media/fa-solid-900.efbd5d20.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6feaff4.js",
-    "static/css/2.4f60e22f.chunk.css",
-    "static/js/2.1818de99.chunk.js",
+    "static/js/runtime-main.adcabd32.js",
+    "static/css/2.e8a9affb.chunk.css",
+    "static/js/2.a22355ec.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.86fc5c79.chunk.js"
+    "static/js/main.91da19cd.chunk.js"
   ]
 }
